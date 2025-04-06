@@ -5,8 +5,8 @@ from animation import animation_call
 from style import dark_background
 from style import nav_bar
 from style import write_to_sidebar
-from Speech_recognition import speechrecognition
-from Speech_recognition import speak
+# from Speech_recognition import speechrecognition
+# from Speech_recognition import speak
 from pages.Movie.Movies import Movie_call
 from pages.Books.Book import Book_call
 from pages.Skills.Advance_skills import Skills_call
